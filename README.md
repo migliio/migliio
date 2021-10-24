@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:migliorelliclaudio@gmail.com)
 [![Twitter](https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=)](https://twitter.com/migliio)
 [![Keybase](https://img.shields.io/static/v1?style=for-the-badge&message=Keybase&color=33A0FF&logo=Keybase&logoColor=FFFFFF&label=)](https://keybase.io/miglio/pgp_keys.asc)
+[![Reddit](https://img.shields.io/static/v1?style=for-the-badge&message=Reddit&color=FF4500&logo=Reddit&logoColor=FFFFFF&label=)](https://www.reddit.com/user/migliio)
 
 My name is Claudio, a Computer Engineer living in [Milan](https://goo.gl/maps/xKjoMDEyRpdjAkbe8). I'm attending the MSc in [Computer Science and Engineering](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?check_params=1&aa=2021&k_corso_la=481&lang=EN&k_indir=T2A&__pj0=0&__pj1=24fcaca386b342c57fa9fac710f8934e) at the [Politecnico di Milano](https://en.wikipedia.org/wiki/Polytechnic_University_of_Milan).
 - 🔭 I’m currently working on:
