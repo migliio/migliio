@@ -19,7 +19,6 @@ My name is Claudio, a Computer Engineer living in [Milan](https://goo.gl/maps/xK
 - 🔭 I’m currently working on:
   - A Database Design assignment for the [Data Bases 2](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=764664&__pj0=0&__pj1=57616c3a06dcdffe28aed6528f608244) course;
   - A R&DD and IT project assignment for the [Software Engineering 2](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=763895&__pj0=0&__pj1=93b06ac8ae692defe45f50d1d9b32091) course.
-  - 
 - 🌱 I’m currently learning:
   - Advanced techniques for Software Design, Implementation and Testing;
   - Databases and transactions design;
