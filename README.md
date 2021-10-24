@@ -27,6 +27,7 @@ My name is Claudio, a Computer Engineer living in [Milan](https://goo.gl/maps/xK
   - Advanced techniques for Software Design, Implementation and Testing;
   - Databases and transactions design;
   - Ranking query algorithms;
+  - Game theory;
   - Modal logic and finite fields theory.
 
 ![Migliio's github stats](https://github-readme-stats.vercel.app/api?username=migliio&show_icons=true&hide_border=true)
