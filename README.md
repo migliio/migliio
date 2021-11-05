@@ -1,4 +1,4 @@
-### Hi there 👋
+### (Wannabe short) bio
 
 [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:migliorelliclaudio@gmail.com)
 [![Twitter](https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=)](https://twitter.com/migliio)
