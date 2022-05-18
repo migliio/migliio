@@ -5,16 +5,17 @@
 [![Keybase](https://img.shields.io/static/v1?style=for-the-badge&message=Keybase&color=33A0FF&logo=Keybase&logoColor=FFFFFF&label=)](https://keybase.io/miglio/pgp_keys.asc)
 [![Reddit](https://img.shields.io/static/v1?style=for-the-badge&message=Reddit&color=FF4500&logo=Reddit&logoColor=FFFFFF&label=)](https://www.reddit.com/user/migliio)
 
-My name is Claudio, a Computer Engineer living in [Milan](https://goo.gl/maps/xKjoMDEyRpdjAkbe8). I'm attending the MSc in [Computer Science and Engineering](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?check_params=1&aa=2021&k_corso_la=481&lang=EN&k_indir=T2A&__pj0=0&__pj1=24fcaca386b342c57fa9fac710f8934e) at [Politecnico di Milano](https://en.wikipedia.org/wiki/Polytechnic_University_of_Milan).
-- 🔭 I’m currently working on:
-  - A Database Design assignment for the [Data Bases 2](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=764664&__pj0=0&__pj1=57616c3a06dcdffe28aed6528f608244) course;
-  - A R&DD and IT project assignment for the [Software Engineering 2](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=763895&__pj0=0&__pj1=93b06ac8ae692defe45f50d1d9b32091) course.
-- 🌱 I’m currently learning:
-  - Advanced techniques for Software Design, Implementation and Testing;
-  - Databases and transactions design;
-  - Ranking query algorithms;
-  - Game Theory;
-  - Modal Logic and Finite Fields theory.
+<p><pre align="center">
+<strong>Claudio Migliorelli /</strong> <a href="https://twitter.com/migliio">Twitter</a> / <a href="https://www.reddit.com/user/migliio">Reddit</a> / <a href="https://app.hackthebox.com/profile/424092"> Hack The Box </a> / <a href="mailto:migliorelliclaudio@gmail.com">E-mail</a> </pre></p>
 
-![Migliio's github stats](https://github-readme-stats.vercel.app/api?username=migliio&show_icons=true&hide_border=true)
+![Metrics](https://metrics.lecoq.io/migliio?template=classic&base.indepth=false&config.timezone=Europe%2FRome)
 
+I'm a Computer Engineer living in [Milan](https://goo.gl/maps/xKjoMDEyRpdjAkbe8), attending the MSc in [Computer Science and Engineering](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?check_params=1&aa=2021&k_corso_la=481&lang=EN&k_indir=T2A&__pj0=0&__pj1=24fcaca386b342c57fa9fac710f8934e) at [Politecnico di Milano](https://en.wikipedia.org/wiki/Polytechnic_University_of_Milan). I'm deeply interested in low-level software programming (e.g., Linux kernel), computer security and cryptography. Sometimes I lose sleep over hacking challenges.
+
+### Projects
+- **[LAZARUS](https://github.com/migliio/LAZARUS)** is a Linux kernel-based LKM rootkit that uses hardware-level debug facilities to hook system calls transparently <img align="right" alt="GitHub repository stars" src="https://img.shields.io/github/stars/migliio/LAZARUS?style=social">
+
+### Publications
+- <a href="https://arxiv.org/abs/2203.14086"><img src="https://img.shields.io/badge/arXiv-2203.14086-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[Getting more from the skyline operator through restricted skylines,
+regret minimizing sets and skyline ordering: a survey on their
+properties and comparison](https://arxiv.org/pdf/2203.14086.pdf)**
