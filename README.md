@@ -1,10 +1,3 @@
-### (Wannabe short) bio
-
-[![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:migliorelliclaudio@gmail.com)
-[![Twitter](https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=)](https://twitter.com/migliio)
-[![Keybase](https://img.shields.io/static/v1?style=for-the-badge&message=Keybase&color=33A0FF&logo=Keybase&logoColor=FFFFFF&label=)](https://keybase.io/miglio/pgp_keys.asc)
-[![Reddit](https://img.shields.io/static/v1?style=for-the-badge&message=Reddit&color=FF4500&logo=Reddit&logoColor=FFFFFF&label=)](https://www.reddit.com/user/migliio)
-
 <p><pre align="center">
 <strong>Claudio Migliorelli /</strong> <a href="https://twitter.com/migliio">Twitter</a> / <a href="https://www.reddit.com/user/migliio">Reddit</a> / <a href="https://app.hackthebox.com/profile/424092"> Hack The Box </a> / <a href="mailto:migliorelliclaudio@gmail.com">E-mail</a> </pre></p>
 
